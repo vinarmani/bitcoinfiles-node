@@ -1,6 +1,6 @@
-# bitcoinfilesjs
+# bitcoinfiles-node
 
-bitcoinfilesjs is a JavaScript Library for building transactions for Bitcoin Files Protocol (BFP).  Methods for uploading and downloading files are provided [per the BFP specification](https://github.com/simpleledger/slp-specification/blob/master/bitcoinfiles.md).  For convenience, BITBOX network functionality has been built into the library.
+bitcoinfiles-node is a JavaScript Library for building transactions for Bitcoin Files Protocol (BFP).  Methods for uploading and downloading files are provided [per the BFP specification](https://github.com/simpleledger/slp-specification/blob/master/bitcoinfiles.md).  For convenience, BITBOX network functionality has been built into the library.
 
 Other tools using the Bitcoin Files Protocol include:
 * [Electron Cash SLP Edition](http://electroncash.org/#slp)
@@ -11,7 +11,7 @@ Other tools using the Bitcoin Files Protocol include:
 # Installation
 
 #### For node.js
-`npm install bitcoinfiles`
+`npm install bitcoinfiles-node`
 
 #### For browser
 ```<script src='https://unpkg.com/bitcoinfiles'></script>```
