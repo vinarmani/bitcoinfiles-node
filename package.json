@@ -1,7 +1,7 @@
 {
-  "name": "bitcoinfiles",
+  "name": "bitcoinfiles-node",
   "version": "0.5.3",
-  "description": "Upload and Download files to Bitcoin Cash blockchain",
+  "description": "Upload and Download files to Bitcoin Cash blockchain with Node and web",
   "main": "index.js",
   "files": [
     "lib/",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simpleledgerinc/bitcoinfilesjs.git"
+    "url": "git+https://github.com/vinarmani/bitcoinfiles-node.git"
   },
   "keywords": [
     "BCH",
@@ -30,9 +30,9 @@
   "license": "MIT",
   "unpkg": "dist/bitcoinfiles.min.js",
   "bugs": {
-    "url": "https://github.com/simpleledgerinc/bitcoinfilesjs/issues"
+    "url": "https://github.com/vinarmani/bitcoinfiles-node/issues"
   },
-  "homepage": "https://github.com/simpleledgerinc/bitcoinfilesjs#readme",
+  "homepage": "https://github.com/vinarmani/bitcoinfiles-node#readme",
   "dependencies": {
     "grpc-bchrpc-node": "^0.10.0",
     "grpc-bchrpc-web": "^0.5.0",
